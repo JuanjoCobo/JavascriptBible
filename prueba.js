@@ -1,4 +1,4 @@
 const a = 10;
-b=true;
+b = true;
 
 console.log(b)
